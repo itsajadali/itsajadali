@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sajad Ali
+Baghdad Governorate, Iraq  
+itsajadali7@gmail.com | 07742226521  
+[LinkedIn](https://www.linkedin.com/in/sajad-ali)
 
-<!--
-**itsajadali/itsajadali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### **Profile Overview**  
+Backend Software Engineer with strong expertise in ASP.NET Core, Oracle PL/SQL, and enterprise payment integrations. I enjoy building reliable backend systems, designing middleware between banking platforms, and optimizing databases for high-volume transactions. Driven by problem-solving, continuous improvement, and clean architecture. I aim to build software that is scalable, secure, and easy to maintain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **Technical Skills**  
+- **Programming Languages**: C#, Python, JavaScript, SQL
+- **Backend Development**: .NET, Node.js
+- **Database Management**: Oracle, MongoDB
+- **API Development**: RESTful API design & integration, SOAP Web Services (XML/JSON), Middleware Integration
+- **Tools & Practices**: Git/GitHub, Debugging, System Integration, Problem Solving, Performance Optimization
+  
+---
+
+### **Experience**  
+## Backend Developer | APS (Arab payment Services)
+[2024/06/02] – Present |  Baghdad, Iraq
+
+
+---
+
+### **Education**  
+Computer Engineering.
+University of Technology College of Engineering - 2020 - 2024 • Baghdad, Iraq
+
+
+

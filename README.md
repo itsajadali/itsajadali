@@ -20,8 +20,7 @@ Backend Software Engineer with strong expertise in ASP.NET Core, Oracle PL/SQL, 
 ---
 
 ### **Experience**  
-## Backend Developer | APS (Arab payment Services)
-[2024/06/02] – Present |  Baghdad, Iraq
+## Backend Developer | APS (Arab payment Services) [2024/06/02] – Present |  Baghdad, Iraq
 
 
 ---

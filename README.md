@@ -1,6 +1,6 @@
 # Hi, I'm Sajad Ali
 Baghdad Governorate, Iraq  
-itsajadali7@gmail.com | 07742226521  
+itsajadali7@gmail.com | 07742227521  
 [LinkedIn](https://www.linkedin.com/in/sajad-ali)
 
 ---
